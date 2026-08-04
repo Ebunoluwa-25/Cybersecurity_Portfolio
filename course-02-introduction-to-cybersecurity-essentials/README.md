@@ -31,4 +31,4 @@ I successfully completed the **Introduction to Cybersecurity Essentials** course
 
 [View Certificate](course-02-introduction-to-cybersecurity-essentials/Course_2_completion_certificate.pdf)
 
-[View Digital Badge](digital_badge.png)
+[View Digital Badge](course-02-introduction-to-cybersecurity-essentials/digital_badge.png)
