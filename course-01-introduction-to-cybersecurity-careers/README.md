@@ -10,4 +10,4 @@ I also learned about the different certifications associated with these career p
 
 The course helped me define my cybersecurity career direction and understand the skills and certifications required for the path I chose.
 I successfully completed the course and received a certificate of completion.
-[view certificate](course-01-introduction-to-cybersecurity-careers/Course_1_completion_certificate.pdf)
+[view certificate](Course_1_completion_certificate.pdf)
