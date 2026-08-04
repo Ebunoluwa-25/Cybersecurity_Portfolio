@@ -29,6 +29,6 @@ This project helped me apply Windows update management, browser-data handling an
 
 I successfully completed the **Introduction to Cybersecurity Essentials** course, earned an IBM Cybersecurity Essentials digital badge and received a certificate of completion from IBM through Coursera.
 
-[View Certificate](course-02-certificate.pdf)
+[View Certificate](course-02-introduction-to-cybersecurity-essentials/Course_2_completion_certificate.pdf)
 
 [View Digital Badge](digital_badge.png)
