@@ -25,4 +25,4 @@ common job roles, and relevant professional certifications.
 ### Course 2: Introduction to Cybersecurity Essentials
 
 This course introduced core cybersecurity principles, including the CIA triad, information protection, common threats, malware, social engineering, authentication, access control, password security, encryption, device hardening, firewalls, VPNs and safe browsing practices. It also included practical Windows-based labs involving password policies, updates, browser data management and Windows Defender Firewall configuration.  
-
+[view course 2](course-02-introduction-to-cybersecurity-essentials/README.md)
