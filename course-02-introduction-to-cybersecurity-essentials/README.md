@@ -23,12 +23,14 @@ I:
 5. Allowed Google Chrome to communicate through Windows Defender Firewall.
 6. Blocked Firefox from communicating through Windows Defender Firewall.
 
+   [view result](Course_2_Final_Project_Results.pdf)
+
 This project helped me apply Windows update management, browser-data handling and firewall configuration in practical service-desk scenarios.
 
 ## Outcome
 
 I successfully completed the **Introduction to Cybersecurity Essentials** course, earned an IBM Cybersecurity Essentials digital badge and received a certificate of completion from IBM through Coursera.
 
-[View Certificate](Course_2_completion_certificate.pdf)
+[view certificate](Course_2_completion_certificate.pdf)
 
-[View Digital Badge](digital_badge.png)
+[view digital badge](digital_badge.png)
