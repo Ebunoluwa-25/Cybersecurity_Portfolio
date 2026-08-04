@@ -12,7 +12,7 @@ The course included practical Windows-based activities involving password-streng
 
 ## Final Project
 
-For the final project, I worked in a Windows Server-based laboratory environment and resolved three service tickets across six tasks.
+For the final project, I worked in a Windows Server-based laboratory environment and resolved three service tickets across six tasks, achieving a score of **80%**.
 
 I:
 
