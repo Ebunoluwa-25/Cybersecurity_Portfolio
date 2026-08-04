@@ -9,3 +9,4 @@ I also learned about the different certifications associated with these career p
 ## Outcome
 
 The course helped me define my cybersecurity career direction and understand the skills and certifications required for the path I chose.
+I successfully completed the course and received a certificate of completion.
