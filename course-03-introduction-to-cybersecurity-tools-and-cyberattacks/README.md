@@ -43,6 +43,6 @@ The course strengthened my understanding of cybersecurity threats, network recon
 
 [View Certificate](course_3_completion_certificate.pdf)
 
-[View Digital Badge](digital_badge2.png)
+[View Digital Badge](digital_badge2.jpeg)
 
 
