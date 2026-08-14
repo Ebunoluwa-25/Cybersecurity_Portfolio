@@ -13,3 +13,9 @@ I studied network mapping and reconnaissance, including the use of Nmap to ident
 The course also covered identity and access management, including authentication, authorisation, and access control. I learned about authentication methods and protocols, role-based and attribute-based access control, multifactor authentication, single sign-on, and the different factors used to verify a user's identity.
 
 Finally, I learned about physical and site security measures used to protect organisational resources, including access-control systems, monitoring, security personnel, locks, alarms, environmental controls, backup power, redundant systems, and off-site data storage.
+
+## Practical Learning
+
+During this course, I completed introductory hands-on exercises involving network reconnaissance and packet analysis.
+
+I used Nmap to examine hosts, ports, services, and operating-system information in an authorised lab environment. I also used Wireshark to capture, filter, and examine network traffic and protocols.
