@@ -26,3 +26,10 @@ common job roles, and relevant professional certifications.
 
 This course introduced core cybersecurity principles, including the CIA triad, information protection, common threats, malware, social engineering, authentication, access control, password security, encryption, device hardening, firewalls, VPNs and safe browsing practices. It also included practical Windows-based labs involving password policies, updates, browser data management and Windows Defender Firewall configuration.  
 [view course 2](course-02-introduction-to-cybersecurity-essentials/README.md)
+
+
+
+### Course 3: Introduction to Cybersecurity Tools & Cyberattacks
+
+This course covered cybersecurity threats, critical thinking, threat actors, network mapping with Nmap, packet analysis with Wireshark, authentication, access control, multifactor authentication, and physical security. It also included a final security assessment project focused on improving access control and physical security measures.
+[view course 3](course-03-introduction-to-cybersecurity-tools-and-cyberattacks/)
