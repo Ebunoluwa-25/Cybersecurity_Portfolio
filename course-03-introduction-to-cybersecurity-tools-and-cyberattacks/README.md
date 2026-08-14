@@ -19,3 +19,25 @@ Finally, I learned about physical and site security measures used to protect org
 During this course, I completed introductory hands-on exercises involving network reconnaissance and packet analysis.
 
 I used Nmap to examine hosts, ports, services, and operating-system information in an authorised lab environment. I also used Wireshark to capture, filter, and examine network traffic and protocols.
+
+
+## Final Project
+
+For the final project, I worked through a security assessment scenario as an IT Security Analyst for a fictional company, TechSolutions Inc., following a data breach caused by compromised credentials.
+
+The project required me to review the company's existing access control methods, including usernames and passwords, SSH keys, and smart cards, and assess how access to important company resources could be better protected.
+
+I also examined different authentication methods and considered how multifactor authentication could be introduced to strengthen access control and reduce the risk of unauthorised access.
+
+The final part of the project focused on physical security. I reviewed the security measures used across areas such as reception, employee workspaces, meeting rooms, server rooms, file storage, parking areas, and common spaces, and considered areas where physical security could be improved.
+
+I successfully completed the final project with a score of **55%**.
+
+This project helped me apply concepts from the course to access control, authentication, multifactor authentication, and physical security in an organisational security scenario.
+
+## Outcome
+
+I completed the **Introduction to Cybersecurity Tools & Cyberattacks** course and developed a stronger understanding of network reconnaissance, packet analysis, access control, authentication, multifactor authentication, threat actors, and physical security.
+
+The course also helped me apply these concepts through introductory practical exercises and a final security assessment scenario.
+
