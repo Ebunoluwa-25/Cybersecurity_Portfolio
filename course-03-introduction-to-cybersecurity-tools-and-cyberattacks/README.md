@@ -37,7 +37,12 @@ This project helped me apply concepts from the course to access control, authent
 
 ## Outcome
 
-I completed the **Introduction to Cybersecurity Tools & Cyberattacks** course and developed a stronger understanding of network reconnaissance, packet analysis, access control, authentication, multifactor authentication, threat actors, and physical security.
+I successfully completed the **Introduction to Cybersecurity Tools & Cyberattacks** course, earned an IBM digital badge, and received a certificate of completion from IBM through Coursera.
 
-The course also helped me apply these concepts through introductory practical exercises and a final security assessment scenario.
+The course strengthened my understanding of cybersecurity threats, network reconnaissance, packet analysis, authentication, access control, multifactor authentication, and physical security.
+
+[View Certificate](course_3_completion_certificate.pdf)
+
+[View Digital Badge](digital_badge2.png)
+
 
