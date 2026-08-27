@@ -33,3 +33,11 @@ This course introduced core cybersecurity principles, including the CIA triad, i
 
 This course covered cybersecurity threats, critical thinking, threat actors, network mapping with Nmap, packet analysis with Wireshark, authentication, access control, multifactor authentication, and physical security. It also included a final security assessment project focused on improving access control and physical security measures.
 [view course 3](course-03-introduction-to-cybersecurity-tools-and-cyberattacks/)
+
+
+
+### Course 4: Operating Systems: Overview, Administration, and Security
+
+This course covered Windows, Linux, and macOS operating systems, system administration, file systems, user and group management, security tools, command-line operations, patching, virtualization, cloud computing, and containerization. It also included a hands-on final project involving Windows Server and Linux tasks such as user management, malware protection, firewall configuration, file management, and system updates.
+
+[View Course 4](course-04-operating-systems-overview-administration-and-security/)
