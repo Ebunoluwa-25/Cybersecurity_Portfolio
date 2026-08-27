@@ -64,4 +64,4 @@ Through this course, I developed practical experience working with Windows and L
 
 [View Certificate](course_4_completion_certificate.pdf)
 
-[View Digital Badge](digital_badge3.png)
+[View Digital Badge](digital_badge3.jpeg)
